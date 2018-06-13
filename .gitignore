@@ -1,0 +1,7 @@
+# Not relevant file
+Driver.java
+# Ignore BlueJ files
+*.bluej
+# Ignore generated files
+*.class
+*.ctxt

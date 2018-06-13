@@ -13,7 +13,7 @@ public class Triangle
         {0, 1, 0, 0},
         {0, 0, 1, 0}
     });
-    final int LEN = 9;
+    final static int LEN = 9;
     
     final double[] tri;
     
